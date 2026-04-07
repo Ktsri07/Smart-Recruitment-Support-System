@@ -1,4 +1,4 @@
-Here is a **formal, professional README.md** version of your project based strictly on your thesis 
+ 
 
 ---
 
